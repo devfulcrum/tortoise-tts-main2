@@ -1,0 +1,13 @@
+numpy
+tqdm
+rotary_embedding_torch
+transformers==4.29.2
+tokenizers
+inflect
+progressbar
+einops
+unidecode
+scipy
+librosa
+numba
+ffmpeg
